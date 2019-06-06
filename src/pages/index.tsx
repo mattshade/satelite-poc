@@ -30,7 +30,7 @@ const IndexPage = (props: LayoutProps) =>
       <Grid stackable verticalAlign="middle" className="container">
         <Grid.Row>
           <Grid.Column width="8">
-            <Header>Lorem ipsum</Header>
+            <Header>hallo!</Header>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Porro laudantium ad, quae, perspiciatis ipsa distinctio.
